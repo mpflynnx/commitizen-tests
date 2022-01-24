@@ -23,6 +23,6 @@ exclude = '''
 [tool.commitizen]
 version = "0.7.0"
 version_files = ["engineervix_test/__init__.py"]
-tag_format = "v$major.$minor.$patch"
+tag_format = "$major.$minor.$patch"
 update_changelog_on_bump = true
 annotated_tag = true
