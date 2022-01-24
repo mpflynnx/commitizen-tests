@@ -1,3 +1,16 @@
+## v0.8.0 (2022-01-24)
+
+### Feat
+
+- **new-feat**: new feat
+- **feat**: feat
+- **new-feat**: new feat
+
+### Fix
+
+- **fix**: fix
+- **fix**: fix
+
 ## v0.7.0 (2022-01-24)
 
 ### Feat
