@@ -1,0 +1,28 @@
+[tool.black]
+line-length = 88
+target-version = ['py36', 'py37', 'py39']
+include = '\.pyi?$'
+exclude = '''
+
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | (.*)/migrations
+    | dist
+  )/
+)
+'''
+[tool.commitizen]
+version = "0.0.0"
+version_files = ["engineervix_test/__init__.py"]
+tag_format = "v$major.$minor.$patch"
+update_changelog_on_bump = true
+annotated_tag = true
