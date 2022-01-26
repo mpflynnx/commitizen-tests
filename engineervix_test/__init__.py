@@ -4,4 +4,4 @@ Please refer to the documentation provided in the README.md
 
 __author__ = """mpflynnx"""
 __email__ = "mpflynnx@gmail.com"
-__version__ = "0.8.2"
+__version__ = "0.8.3"
