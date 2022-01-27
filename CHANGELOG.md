@@ -3,7 +3,6 @@
 ### Feat
 
 - **parser**: change to click for parser
-- **parser**: change to click for parser
 
 ## v0.9.1 (2022-01-27)
 
@@ -12,6 +11,10 @@
 - **parser**: fix parser (#6)
 
 ## v0.9.0 (2022-01-27)
+
+### Feat
+
+- **parser**: change to argparse for parser
 
 ## v0.8.6 (2022-01-27)
 
