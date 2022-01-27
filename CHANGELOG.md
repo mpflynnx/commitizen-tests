@@ -1,3 +1,10 @@
+## v0.10.0 (2022-01-27)
+
+### Feat
+
+- **parser**: change to click for parser
+- **parser**: change to click for parser
+
 ## v0.9.1 (2022-01-27)
 
 ### Fix
