@@ -1,3 +1,9 @@
+## v0.13.0 (2022-03-11)
+
+### Feat
+
+- **test-test-test**: new feature pr test edit title (#16)
+
 ## v0.12.1 (2022-02-01)
 
 ### Fix
