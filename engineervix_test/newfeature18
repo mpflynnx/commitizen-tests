@@ -1,0 +1,3 @@
+# new feature 18
+#pr reviewer requested some code so here it is
+print(f"i like python f strings because {}")
